@@ -48,7 +48,7 @@ namespace AuthenticationApi
             {
                 x.SwaggerDoc(name: "v1", new Microsoft.OpenApi.Models.OpenApiInfo
                 {
-                    Title = "AB&Tacrmac",
+                    Title = "AB&Tacrmac AZure",
                     Version = "v"
                 });
                 // To Enable authorization using Swagger (JWT)
